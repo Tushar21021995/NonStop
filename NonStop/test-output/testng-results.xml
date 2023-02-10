@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-10T13:06:29 IST" name="Default suite" finished-at="2023-02-10T13:07:22 IST" duration-ms="53119">
+    <groups>
+    </groups>
+    <test started-at="2023-02-10T13:06:29 IST" name="Default test" finished-at="2023-02-10T13:07:22 IST" duration-ms="53119">
+      <class name="Assignment.Amazon">
+        <test-method is-config="true" signature="BS()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:06:29 IST" name="BS" finished-at="2023-02-10T13:06:29 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:06:29 IST" name="BT" finished-at="2023-02-10T13:06:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:06:29 IST" name="BC" finished-at="2023-02-10T13:06:31 IST" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:06:31 IST" name="BM" finished-at="2023-02-10T13:06:34 IST" duration-ms="2909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="amazonTest()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:06:34 IST" name="amazonTest" finished-at="2023-02-10T13:07:22 IST" duration-ms="48330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:07:22 IST" name="AM" finished-at="2023-02-10T13:07:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:07:22 IST" name="AC" finished-at="2023-02-10T13:07:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:07:22 IST" name="AT" finished-at="2023-02-10T13:07:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:Assignment.Amazon@593aaf41]" started-at="2023-02-10T13:07:22 IST" name="AS" finished-at="2023-02-10T13:07:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- Assignment.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
